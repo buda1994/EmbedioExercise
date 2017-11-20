@@ -39,13 +39,14 @@ $RECYCLE.BIN/
 *.userprefs
 
 # Build results
-[Oo]bj/
+ArcEmbedio/obj/*
 [Dd]ebugPublic/
 [Rr]eleases/
 x64/
 x86/
 bld/
 [Ll]og/
+[Oo]bj
 
 # Visual Studio 2015 cache/options directory
 .vs/
