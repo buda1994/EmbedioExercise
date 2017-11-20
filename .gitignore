@@ -18,6 +18,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.exe
 
 # Windows shortcuts
 *.lnk
@@ -38,6 +39,7 @@ $RECYCLE.BIN/
 *.userprefs
 
 # Build results
+[Oo]bj/
 [Dd]ebugPublic/
 [Rr]eleases/
 x64/
