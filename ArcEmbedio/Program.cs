@@ -1,15 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading;
-using Unosquare.Labs.EmbedIO;
-using Unosquare.Labs.EmbedIO.Constants;
-using Unosquare.Labs.EmbedIO.Modules;
-using Unosquare.Net;
-using Unosquare.Swan;
-
-namespace ArcEmbedio
+﻿namespace ArcEmbedio
 {
+    using System;
+    using Unosquare.Labs.EmbedIO;
+    using Unosquare.Labs.EmbedIO.Constants;
+    using Unosquare.Labs.EmbedIO.Modules;
+    using Unosquare.Net;
+    using Unosquare.Swan;
+
     class Program
     {
         static void Main(string[] args)
